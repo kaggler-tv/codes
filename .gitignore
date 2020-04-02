@@ -1,0 +1,15 @@
+# no .csv files
+*.csv
+
+# only ignore the TODOfile in the current dirrectory
+/TODO
+
+# logs
+*.log
+
+# pt
+*.pt
+
+# logs
+*.txt
+*.out
